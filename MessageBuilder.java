@@ -4,7 +4,7 @@ public class MessageBuilder {
     }
 
     public static int getNumber10(){
-        return 10;
+        return 2;
     }
 
 }
